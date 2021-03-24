@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1616592581,,"wq"
+|2,0,1616594982,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,32 @@
 # Registers:
 
 # File marks:
-'0  1  1  ~/dajo/git_commit.sh
-|4,48,1,1,1616592581,"~/dajo/git_commit.sh"
+'0  3  3  ~/gomak/welcome.txt
+|4,48,3,3,1616594982,"~/gomak/welcome.txt"
 '1  1  1  ~/dajo/git_commit.sh
-|4,49,1,1,1616592015,"~/dajo/git_commit.sh"
-'2  2  0  ~/dajo/git_commit.sh
-|4,50,2,0,1616591951,"~/dajo/git_commit.sh"
+|4,49,1,1,1616592581,"~/dajo/git_commit.sh"
+'2  1  1  ~/dajo/git_commit.sh
+|4,50,1,1,1616592015,"~/dajo/git_commit.sh"
 '3  2  0  ~/dajo/git_commit.sh
 |4,51,2,0,1616591951,"~/dajo/git_commit.sh"
 '4  2  0  ~/dajo/git_commit.sh
 |4,52,2,0,1616591951,"~/dajo/git_commit.sh"
 '5  2  0  ~/dajo/git_commit.sh
 |4,53,2,0,1616591951,"~/dajo/git_commit.sh"
+'6  2  0  ~/dajo/git_commit.sh
+|4,54,2,0,1616591951,"~/dajo/git_commit.sh"
 
 # Jumplist (newest first):
+-'  3  3  ~/gomak/welcome.txt
+|4,39,3,3,1616594982,"~/gomak/welcome.txt"
+-'  1  0  ~/gomak/welcome.txt
+|4,39,1,0,1616594965,"~/gomak/welcome.txt"
 -'  1  1  ~/dajo/git_commit.sh
 |4,39,1,1,1616592581,"~/dajo/git_commit.sh"
+-'  1  1  ~/dajo/git_commit.sh
+|4,39,1,1,1616592581,"~/dajo/git_commit.sh"
+-'  1  1  ~/dajo/git_commit.sh
+|4,39,1,1,1616592015,"~/dajo/git_commit.sh"
 -'  1  1  ~/dajo/git_commit.sh
 |4,39,1,1,1616592015,"~/dajo/git_commit.sh"
 -'  2  0  ~/dajo/git_commit.sh
@@ -48,11 +58,26 @@
 -'  2  0  ~/dajo/git_commit.sh
 |4,39,2,0,1616592005,"~/dajo/git_commit.sh"
 -'  2  0  ~/dajo/git_commit.sh
+|4,39,2,0,1616592005,"~/dajo/git_commit.sh"
+-'  2  0  ~/dajo/git_commit.sh
+|4,39,2,0,1616592005,"~/dajo/git_commit.sh"
+-'  2  0  ~/dajo/git_commit.sh
 |4,39,2,0,1616591951,"~/dajo/git_commit.sh"
+-'  2  0  ~/dajo/git_commit.sh
+|4,39,2,0,1616591951,"~/dajo/git_commit.sh"
+-'  1  0  ~/dajo/git_commit.sh
+|4,39,1,0,1616591927,"~/dajo/git_commit.sh"
 -'  1  0  ~/dajo/git_commit.sh
 |4,39,1,0,1616591927,"~/dajo/git_commit.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/gomak/welcome.txt
+	*	1616594980	0
+	"	3	3
+	^	3	4
+	.	3	3
+	+	3	3
 
 > ~/dajo/git_commit.sh
 	*	1616592579	0
